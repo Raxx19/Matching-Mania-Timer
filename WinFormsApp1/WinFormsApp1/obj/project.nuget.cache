@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dC1YExl+3tRgEYt/I2Cx7cVHs1RoN/IVIeG9CAnHQykgHCAJZEpH8MtnpAjbTOenZU6Gn4duJcRBCcC3cENoBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mineg\\Downloads\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mineg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\mineg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\mineg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\mineg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
